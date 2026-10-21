@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [আলোকিত মানুষের সাথে ইফতার আড্ডা @LearnwithSumit](https://www.youtube.com/watch?v=0mzjOwim-xY)
-- [React 19 new Features - What&#39;s new in React 19](https://www.youtube.com/watch?v=-AtfFUeeuIs)
-- [Keep Design System - Get Your Perfect Design in minutes](https://www.youtube.com/watch?v=aMkJFwVRi2o)
-- [What&#39;s new in Tailwind v4 - Tailwind is now 10x faster!](https://www.youtube.com/watch?v=THeGVRJwIYM)
-- [Front-end Web Development - Do you need Data Structures and Algorithms?](https://www.youtube.com/watch?v=LYdtvpAFmc8)
+- [AI দিয়ে Software বানিয়ে আয় করবেন কীভাবে? | SaaS বিক্রির নতুন উপায়](https://www.youtube.com/watch?v=nQspigI4SY8)
+- [Where&#39;s the Backend? Puter.js Full Tutorial in Bangla | Zero-Cost AI App](https://www.youtube.com/watch?v=uPfsG8p2ds0)
+- [Astro 7 Crash Course in Bangla | Build &amp; Deploy a Fast Portfolio &amp; Blog Website](https://www.youtube.com/watch?v=QHFwp070Yts)
+- [NestJS Crash Course &lpar;Bangla&rpar; | Build &quot;HelpDesk Lite&quot; API | Architecture to Deployment](https://www.youtube.com/watch?v=K20Ej3iKLpw)
+- [Reactive Accelerator কোর্সটি কেন করবেন?এনরোলমেন্ট চলছে](https://www.youtube.com/watch?v=o-WbuOEmD0A)
 <!-- YOUTUBE:END -->
 
 #### Business

@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Powered Software Development to Entrepreneurship - Story of Vibe96.com](https://www.youtube.com/watch?v=-Cj2dRpfwTo)
+- [Stop Building Slow React Apps: The Local-First Architecture &lpar;RxDB Tutorial&rpar;](https://www.youtube.com/watch?v=cHfJnK8-H4I)
 - [Laravel 13 Crash Course &lpar;Bangla&rpar; | For JavaScript Developers](https://www.youtube.com/watch?v=0d-qYHjI0wg)
 - [PHP2Shell: আপনার ওয়েবসাইট কি সত্যিই নিরাপদ? | PHP Vulnerability &amp; Server Security](https://www.youtube.com/watch?v=bTLaykRkB7U)
 - [Hono Crash Course Bangla | Build a Complete Backend with Stripe Payment](https://www.youtube.com/watch?v=B7wBjfMoK48)
-- [AI দিয়ে Software বানিয়ে আয় করবেন কীভাবে? | SaaS বিক্রির নতুন উপায়](https://www.youtube.com/watch?v=nQspigI4SY8)
-- [Where&#39;s the Backend? Puter.js Full Tutorial in Bangla | Zero-Cost AI App](https://www.youtube.com/watch?v=uPfsG8p2ds0)
 <!-- YOUTUBE:END -->
 
 #### Business
